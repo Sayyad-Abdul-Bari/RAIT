@@ -95,8 +95,6 @@ Supplier C (JSON)  ──→ SupplierCAdapter ──┘                         
                                                     Streamlit Dashboard (4 pages)
 ```
 
-See `docs/project_architecture.mmd` for a full component diagram.
-
 ---
 
 ## Metric Design
@@ -147,17 +145,9 @@ Supplier C provides only `user_query` and `system_response` — no metadata what
 2. Click **▶ Run Analysis** in the sidebar to execute the full pipeline
 3. Results are cached to `data/results/results_cache.json`
 4. Navigate between the four pages — results load instantly from cache
-5. Use the **🌙 Dark mode** toggle in the sidebar to switch themes
 
 ---
 
-## Running Tests
-
-```bash
-conda activate rait-assessment
-pytest tests/ -v
-# All tests pass with LLM_PROVIDER=mock (no API key required)
-```
 
 ---
 
@@ -184,10 +174,7 @@ rait-mle-assessment/
 ├── docs/
 │   ├── metric_definitions.md
 │   ├── threshold_rationale.md
-│   ├── design_decisions.md
 │   ├── synthetic_data_generation.md
-│   ├── project_flow.mmd         # Mermaid end-to-end flow diagram
-│   └── project_architecture.mmd # Mermaid component architecture diagram
 ├── Dockerfile / docker-compose.yml
 ├── requirements.txt
 └── .env.example
