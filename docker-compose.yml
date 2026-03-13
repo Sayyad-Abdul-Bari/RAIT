@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  rait-dashboard:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env          # LLM_PROVIDER, GEMINI_API_KEY, EMBEDDING_MODEL
+    volumes:
+      - ./data:/app/data:ro
+    restart: unless-stopped

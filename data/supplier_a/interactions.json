@@ -1,0 +1,112 @@
+[
+  {
+    "interaction_id": "A-001",
+    "timestamp": "2026-03-13T14:08:36Z",
+    "user_query": "How do I apply for a UK skilled worker visa?",
+    "system_response": "To apply for a UK Skilled Worker visa, you need to follow these steps:\n\n1. **Secure a job offer** from a UK employer that is an approved sponsor and has a valid sponsorship license.\n2. **Ensure your job meets the skill and salary requirements** set by the UK government.\n3. **Gather the necessary documents**, such as your passport, Certificate of Sponsorship from your employer, proof of English language proficiency, and proof of funds if needed.\n4. **Complete the online application** on the UK government website and pay the application fee.\n5. **Book and attend a biometric appointment** at a UK visa application center.\n6. **Wait for a decision** on your application.\n\nFor detailed, up-to-date information, including eligibility criteria and step-by-step guidance, please visit the official gov.uk page on the Skilled Worker visa: [Apply for a Skilled Worker visa](https://www.gov.uk/skilled-worker-visa).",
+    "supplier_id": "supplier_a",
+    "model_name": "gpt-4.1-nano",
+    "token_count": 244,
+    "confidence_score": 0.82,
+    "response_latency_ms": 3193.39,
+    "demographic_group": "white_british",
+    "session_id": "sess-A-Q-001",
+    "metadata": {
+      "channel": "web",
+      "region": "london",
+      "finish_reason": "stop",
+      "prompt_tokens": 54,
+      "completion_tokens": 190,
+      "total_tokens": 244,
+      "response_id": "chatcmpl-DIxTniFe4Sm4iY2Sqfm2UGg7NyEMT"
+    }
+  },
+  {
+    "interaction_id": "A-002",
+    "timestamp": "2026-03-13T14:08:43Z",
+    "user_query": "What documents are required for indefinite leave to remain?",
+    "system_response": "To apply for Indefinite Leave to Remain (ILR) after 5 years on a Skilled Worker visa, you'll typically need the following documents:\n\n- Valid passport and current biometric residence permit (BRP)\n- Evidence of continuous residence in the UK over the 5-year period (e.g., tenancy agreements, utility bills)\n- Your current Certificate of Sponsorship (CoS) and employment details\n- Payslips and bank statements covering the 5-year period\n- Evidence of meeting the English language requirement\n- Life in the UK test pass certificate\n- Criminal record certificate if applicable\n- Evidence of your continued employment and salary meeting the requirements\n\nPlease note that specific requirements can vary depending on your circumstances. I recommend consulting the official guidance on the [UK gov.uk ILR application page](https://www.gov.uk/indefinite-leave-to-remain) for detailed and up-to-date information.",
+    "supplier_id": "supplier_a",
+    "model_name": "gpt-4.1-nano",
+    "token_count": 277,
+    "confidence_score": 0.82,
+    "response_latency_ms": 2743.74,
+    "demographic_group": "white_british",
+    "session_id": "sess-A-Q-002",
+    "metadata": {
+      "channel": "web",
+      "region": "manchester",
+      "finish_reason": "stop",
+      "prompt_tokens": 92,
+      "completion_tokens": 185,
+      "total_tokens": 277,
+      "response_id": "chatcmpl-DIxTv8KRkXrfEhFJsB7PpxTZZaPDK"
+    }
+  },
+  {
+    "interaction_id": "A-003",
+    "timestamp": "2026-03-13T14:08:51Z",
+    "user_query": "What is the current application fee for British citizenship?",
+    "system_response": "As of now, I do not have information beyond October 2023. To find the most up-to-date application fee for British citizenship by naturalisation in 2026, please visit the official UK government website at [gov.uk](https://www.gov.uk/), specifically the section on British citizenship and naturalisation fees. This page is regularly updated with current fees and application guidance.",
+    "supplier_id": "supplier_a",
+    "model_name": "gpt-4.1-nano",
+    "token_count": 137,
+    "confidence_score": 0.82,
+    "response_latency_ms": 1927.46,
+    "demographic_group": "white_british",
+    "session_id": "sess-A-Q-003",
+    "metadata": {
+      "channel": "web",
+      "region": "birmingham",
+      "finish_reason": "stop",
+      "prompt_tokens": 60,
+      "completion_tokens": 77,
+      "total_tokens": 137,
+      "response_id": "chatcmpl-DIxU23qeD2zFPqVRSUTUXGPP0aLWF"
+    }
+  },
+  {
+    "interaction_id": "A-004",
+    "timestamp": "2026-03-13T14:08:56Z",
+    "user_query": "Can I work in the UK on a standard visitor visa?",
+    "system_response": "Generally, you cannot do paid or freelance work while in the UK on a visitor visa. Visitor visas are intended for tourism, visiting friends or family, or business trips that do not involve work or earning income in the UK. Engaging in employment or freelance work may violate the terms of your visa and could affect your future immigration options.\n\nFor more detailed information and to ensure you're following the correct rules, please consult the official guidance on visitor visas on the UK government website: [gov.uk/standard-visitor-visa](https://www.gov.uk/standard-visitor-visa).",
+    "supplier_id": "supplier_a",
+    "model_name": "gpt-4.1-nano",
+    "token_count": 179,
+    "confidence_score": 0.82,
+    "response_latency_ms": 1808.71,
+    "demographic_group": "white_british",
+    "session_id": "sess-A-Q-004",
+    "metadata": {
+      "channel": "phone",
+      "region": "leeds",
+      "finish_reason": "stop",
+      "prompt_tokens": 63,
+      "completion_tokens": 116,
+      "total_tokens": 179,
+      "response_id": "chatcmpl-DIxU7GiN0aiY2hDD2I7cQyxVPDixU"
+    }
+  },
+  {
+    "interaction_id": "A-005",
+    "timestamp": "2026-03-13T14:09:03Z",
+    "user_query": "How long does a UK visa application take to process?",
+    "system_response": "Three weeks is within the typical processing timeframe for a Skilled Worker visa, which can range from a few weeks up to around eight weeks depending on the specifics of your application and the volume of applications being processed. If you haven't received any updates, you can check your application status through the UK Visas and Immigration (UKVI) online account you used to apply. \n\nFor the most accurate and current information, I recommend visiting the official UK government page on Skilled Worker visa processing times: [Check UK visa processing times](https://www.gov.uk/visa-processing-times). If your application is considerably delayed or if you have urgent reasons, you may also contact UKVI customer support through your account or seek advice from a legal professional.",
+    "supplier_id": "supplier_a",
+    "model_name": "gpt-4.1-nano",
+    "token_count": 228,
+    "confidence_score": 0.82,
+    "response_latency_ms": 2175.32,
+    "demographic_group": "white_british",
+    "session_id": "sess-A-Q-005",
+    "metadata": {
+      "channel": "web",
+      "region": "edinburgh",
+      "finish_reason": "stop",
+      "prompt_tokens": 83,
+      "completion_tokens": 145,
+      "total_tokens": 228,
+      "response_id": "chatcmpl-DIxUErZvLTmBJyr659hY524XJWnlP"
+    }
+  }
+]

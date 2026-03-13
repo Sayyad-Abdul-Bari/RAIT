@@ -1,0 +1,76 @@
+interaction_id,timestamp,user_query,system_response,supplier_id,model_name,token_count,confidence_score,response_latency_ms,demographic_group
+B-001,2026-03-13T14:08:39Z,How do I apply for a UK skilled worker visa?,"Okay, here's a breakdown of how to apply for a UK Skilled Worker visa.  It's important to check the official government website for the most up-to-date information, as rules can change.
+
+**1. Check Your Eligibility:**
+
+*   **Job Offer:** You *must* have a job offer from a UK employer that's been approved by the Home Office (a licensed sponsor). They'll assign you a Certificate of Sponsorship (CoS).
+*   **Eligible Occupation:** Your job must be on the list of eligible occupations. You can find this list on the gov.uk website (search for ""Skilled Worker visa eligible occupations""). The job also needs to be at the required skill level (RQF level 3 or above).
+*   **Salary:** You generally need to meet a minimum salary requirement. This can vary depending on the job and your circumstances. Check the specific salary requirements on the gov.uk website. There are some exceptions, such as for new entrants to the labour market or those with PhD-level qualifications in a STEM subject.
+*   **English Language:** You need to prove you can read, write, speak and understand English to the required level. This is usually done through a",supplier_b,gemini-2.0-flash,296,0.64,2947.74,white_british
+B-002,2026-03-13T14:08:46Z,What documents are required for indefinite leave to remain?,"Okay, applying for Indefinite Leave to Remain (ILR) after 5 years on a Skilled Worker visa requires specific documentation. Here's a general overview, but **always refer to the official Gov.uk website for the most up-to-date and comprehensive list**:
+
+**Core Documents:**
+
+*   **Your Current Passport:** Showing your identity and permission to be in the UK.
+*   **Your Biometric Residence Permit (BRP):** If you have one.
+*   **Evidence of Continuous Residence:** This is crucial. You need to prove you've been in the UK for 5 continuous years. This can include:
+    *   P60s for the last 5 years.
+    *   Bank statements showing regular transactions in the UK.
+    *   Council tax bills.
+    *   Utility bills (gas, electricity, water).
+    *   Letters from your employer confirming your employment during the period.
+*   **Evidence of Meeting the Salary Requirements:** You need to show you meet the current salary threshold for the Skilled Worker route. This usually involves:
+    *   Payslips covering the relevant period (usually the last few months).
+    *   A letter from your employer confirming",supplier_b,gemini-2.0-flash,334,0.64,3154.26,white_british
+B-003,2026-03-13T14:08:53Z,What is the current application fee for British citizenship?,"I understand you're looking for the application fee for British citizenship by naturalisation in 2026.
+
+Unfortunately, I cannot provide you with the exact fee for 2026. Application fees are subject to change and are usually updated on the official government website. Predicting future fees is not possible.
+
+**However, here's how you can find the most up-to-date information when it becomes available:**
+
+*   **Check the official UK government website:** The most reliable source for current fees is the official GOV.UK website. Search for ""British citizenship fees"" or ""naturalisation fees"" on GOV.UK. The relevant page will list the current fee.
+
+**Please note:** Fees are usually quoted at the point of application.
+
+I hope this helps!",supplier_b,gemini-2.0-flash,213,0.84,2232.63,white_british
+B-004,2026-03-13T14:08:58Z,Can I work in the UK on a standard visitor visa?,"Thanks for your question.
+
+Generally, no, that is not correct. Working in the UK on a visitor visa is very restricted.
+
+According to the official government website, as a visitor, you **cannot**:
+
+*   do any work for a UK company or organisation
+*   do a work placement or internship
+*   directly provide services to clients in the UK, even if you are paid overseas
+
+**Permitted Activities:**
+
+The gov.uk website does list activities you **can** do as a visitor, such as:
+
+*   attending meetings, conferences, seminars, interviews
+*   negotiating and signing deals and contracts
+*   attending trade fairs
+
+**Crucially:** The line between permissible business activities and prohibited work can be blurry. If you are unsure whether your planned activities are allowed, it is always best to seek clarification from UK Visas and Immigration (UKVI) directly.
+
+**Where to find official information:**
+
+You can find the official guidance on the GOV.UK website. Search for ""Visit the UK as a Standard Visitor"".
+
+**Disclaimer:** I am an AI assistant and cannot provide immigration advice. This information is for guidance only, and you should always refer to the official government sources for the most up",supplier_b,gemini-2.0-flash,305,0.64,3309.29,white_british
+B-005,2026-03-13T14:09:05Z,How long does a UK visa application take to process?,"It's understandable to be anxious about the status of your Skilled Worker visa application. While 3 weeks isn't necessarily unusual, it's good to understand the typical processing times.
+
+Here's what you should know:
+
+*   **Standard Processing Time:** According to the official UK Visas and Immigration (UKVI) information, Skilled Worker visas are typically processed within **3 weeks**. However, this is just a guideline, and some applications may take longer.
+
+*   **Factors Affecting Processing Time:** Several factors can influence how long your application takes, including:
+
+    *   **Application Volume:** UKVI processes a large number of applications, and processing times can fluctuate depending on the current volume.
+    *   **Complexity of the Case:** More complex cases, such as those requiring additional checks or information, will naturally take longer.
+    *   **Completeness of the Application:** If your application was incomplete or missing documents, this can cause delays.
+    *   **Your Nationality:** Security checks may vary depending on your country of origin.
+
+**What You Can Do Now:**
+
+1.  **Check the Gov.uk Website:** The most reliable source of information is the official UK government website. Look for the ""Check",supplier_b,gemini-2.0-flash,325,0.64,3035.82,white_british
